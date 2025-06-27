@@ -59,7 +59,6 @@ Thymeleaf Reference
 WebSocket with Spring
 Maven Documentation
 
-
 Architecture Diagram Description:
         +----------------------+
         |   Web Browser (UI)   |
